@@ -1,3 +1,13 @@
+// Instructions
+// Utilizando a classe Random do Java para gerar números aleatórios, faça um programa que simule um jogo de dados entre 2 jogadores.
+
+// O jogo consiste de 10 rodadas.
+// Em cada rodada, o programa gera 2 números aleatórios (entre 1 e 6), um para cada jogador. O jogador com o maior número vence a rodada e ganha 1 ponto.
+// Ao final de 10 rodadas, o jogador que tiver mais pontos ganha o jogo.
+// OBS: pode haver empate.
+
+// A entrega desta atividade deve ser realizada anexando o arquivo .java do seu código e uma imagem mostrando a execução do seu programa.
+
 import java.util.Random;
 
 public class Atvd02 {
